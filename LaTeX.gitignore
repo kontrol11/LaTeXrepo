@@ -1,1 +1,9 @@
 *~
+*.aux
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.out
+*.synctex
+*.toc
