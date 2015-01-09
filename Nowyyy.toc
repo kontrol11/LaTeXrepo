@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Spotkanie pierwszego stopnia z liczbami zespolonymi}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Liczby zespolone - definicja}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Sprz\IeC {\k e}\IeC {\.z}enie liczby zespolonej}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Modu\IeC {\l } liczby zespolonej}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Interpretacja geometryczna liczby zespolonej}{4}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Liczby zespolone w macierzach}{7}{subsection.1.5}
+\contentsline {section}{\numberline {2}Po ci\IeC {\k e}\IeC {\.z}kiej pracy (czyt. nauce matymatyki) nale\IeC {\.z}y si\IeC {\k e} nieco relaksu\ldots }{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Kilka \IeC {\.z}art\IeC {\'o}w \ldots }{8}{subsection.2.1}
+\contentsline {section}{\numberline {3}Podzi\IeC {\k e}kowania}{10}{section.3}
